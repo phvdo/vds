@@ -2,7 +2,7 @@
 
 资源获取方式：
 
-1、点击VideoHose.apk 进入下载页，然后点右边 "Download" 按钮
+1、点击VideoHouse.apk 进入下载页，然后点右边 "Download" 按钮
 
 2、安装VideoHouse.apk 到手机
 
